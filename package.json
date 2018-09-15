@@ -1,0 +1,24 @@
+{
+  "name": "chomper-bot",
+  "version": "0.1.0",
+  "description": "Discord bot for my Fizz club",
+  "main": "main.js",
+  "author": "Tundra Fizz",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "latest",
+    "request": "latest",
+    "js-yaml": "latest"
+  },
+  "dependencies-comments": {
+    "discord.js": "Discord bot API"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TundraFizz/Fizz-Club-Bot.git"
+  }
+}

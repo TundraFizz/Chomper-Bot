@@ -1,0 +1,5 @@
+node main.js
+CTRL+Z
+bg
+disown
+exit
